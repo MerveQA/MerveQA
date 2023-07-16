@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hi there and welcome to my GitHub page 👋<br>My name is MERVE KOSAR and I am a SDET from İstanbul, Turkey <br>I do a lot of things, and some of them you may even find interesting. 🤞
-
+# 💫 Hi there and welcome to my GitHub page 👋
+<br>My name is MERVE KOSAR and I am a SDET from İstanbul, Turkey <br>I do a lot of things, and some of them you may even find interesting. 🤞
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/merveabdullaho%C4%9Fluko%C5%9Far/) 
