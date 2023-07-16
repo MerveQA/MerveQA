@@ -11,12 +11,12 @@
 
 •	I do some of my projects alone and some with a group. If you wish, you can see them on my github page.
 
-# ---
+---
 
 ### Send me a message!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/merveabdullaho%C4%9Fluko%C5%9Far/)
 
-# ---
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MerveQA&theme=swift&hide_border=true&include_all_commits=true&count_private=false)<br/>
